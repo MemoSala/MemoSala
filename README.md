@@ -1,6 +1,7 @@
-## Hi there 👋
+<img src="/backgrond.png" alt="Error in image 😅...">
 
-<img src="\backgrond.png" alt="Error in image 😅...">
+### Hi there and welcome to my GitHub page 👋
+
 
 <!--
 **MemoSala/MemoSala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
