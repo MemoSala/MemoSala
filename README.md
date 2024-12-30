@@ -7,11 +7,11 @@ My name's Mo'men Salah and I'm a flutter developer from Egypt, Cairo. I do a lot
 ---
 
 ### What do I do?
-
 <p>
   <img src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Error in image 😅...">
   <img src="https://img.shields.io/badge/dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Error in image 😅...">
   <img src="https://img.shields.io/badge/firebase-DD2C00?logo=firebase&logoColor=white&style=for-the-badge" alt="Error in image 😅...">
+  <img src="https://img.shields.io/badge/getx-8A2BE2?logo=getx&logoColor=white&style=for-the-badge" alt="Error in image 😅...">
   <img src="https://img.shields.io/badge/sqlite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="Error in image 😅...">
   <img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Error in image 😅...">
   <img src="https://img.shields.io/badge/c++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="Error in image 😅...">
