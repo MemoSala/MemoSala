@@ -21,7 +21,7 @@ My name's Mo'men Salah and I'm a flutter developer from Egypt, Cairo. I do a lot
 - ⚡ Fun fact: I spend almost 6 hours reading to Book every day.
 
 
-## What do I Do:
+## What do I do:
 <p>
   <img src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/dart-0175C2?logo=dart&logoColor=white&style=for-the-badge">
