@@ -21,7 +21,7 @@ My name's Mo'men Salah and I'm a flutter developer from Egypt, Cairo. I do a lot
 - ⚡ Fun fact: I spend almost 6 hours reading to Book every day.
 
 
-## 👩‍💻 Programming:
+## What do I Do:
 <p>
   <img src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/dart-0175C2?logo=dart&logoColor=white&style=for-the-badge">
@@ -36,7 +36,8 @@ My name's Mo'men Salah and I'm a flutter developer from Egypt, Cairo. I do a lot
   <!-- style =>  plastic  or  flat  or  flat-square  or  for-the-badge  or  social  -->
 </p>
 
-## 💻 Computer:
+## Skills:
+### 💻 Computer:
 <p>
   <img src="https://img.shields.io/badge/Avid_internet_user-000000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Office-083FA6?logo=libreofficewriter&style=for-the-badge&logoColor=white"/>
@@ -45,13 +46,13 @@ My name's Mo'men Salah and I'm a flutter developer from Egypt, Cairo. I do a lot
   <img src="https://img.shields.io/badge/draw_io-CB6D30?style=for-the-badge&logo=libreofficedraw&logoColor=white"/> 
 </p>
 
-## 😏 Language:
+### 😏 Language:
 <p>
   <img src="https://img.shields.io/badge/English-Good_Writing_&_conversational-333333?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arabic-Natives-333333?style=for-the-badge&logoColor=white"/>
 </p>
 
-## 👌 Personal:
+### 👌 Personal:
 <p>
   <img src="https://img.shields.io/badge/Attention_to_detail-333333?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Efficiency-333333?style=for-the-badge&logoColor=white"/>
