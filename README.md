@@ -46,6 +46,18 @@ My name's Mo'men Salah and I'm a flutter developer from Egypt, Cairo. I do a lot
   <img src="https://img.shields.io/badge/draw_io-CB6D30?style=for-the-badge&logo=libreofficedraw&logoColor=white"/> 
 </p>
 
+## Language skills:
+<p>
+  <img src="https://img.shields.io/badge/English-Good_Writing_&_conversational-333333?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arabic-Natives-333333?style=for-the-badge&logoColor=white"/>
+</p>
+
+## Personal skills:
+<p>
+  <img src="https://img.shields.io/badge/Attention_to_detail-333333?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Efficiency-333333?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Reliability-333333?style=for-the-badge&logoColor=white"/>
+</p>
 
 ## 🌐 Socials:
 [![](https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/momen-salah-15584b283)
