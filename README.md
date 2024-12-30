@@ -22,7 +22,7 @@ My name's Mo'men Salah and I'm a flutter developer from Egypt, Cairo. I do a lot
 - ⚡ Fun fact: I spend almost 6 hours reading to Book every day.
 
 
-## What do I do?
+## Programming skills:
 <p>
   <img src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/dart-0175C2?logo=dart&logoColor=white&style=for-the-badge">
@@ -36,6 +36,16 @@ My name's Mo'men Salah and I'm a flutter developer from Egypt, Cairo. I do a lot
   <img src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white&style=for-the-badge">
   <!-- style =>  plastic  or  flat  or  flat-square  or  for-the-badge  or  social  -->
 </p>
+
+## Computer skills:
+<p>
+  <img src="https://img.shields.io/badge/Avid_internet_user-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Office-083FA6?logo=libreofficewriter&style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-50b2fd?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-ff7c00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/draw_io-CB6D30?style=for-the-badge&logo=libreofficedraw&logoColor=white"/> 
+</p>
+
 
 ## 🌐 Socials:
 [![](https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/momen-salah-15584b283)
