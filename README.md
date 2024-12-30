@@ -46,6 +46,16 @@ My name's Mo'men Salah and I'm a flutter developer from Egypt, Cairo. I do a lot
 
 ## 👨🏻‍💻 Laptop in use
 <!-- ## 👨🏻‍💻 Laptop in use & Favorite Terminal -->
-<img src="https://img.shields.io/badge/HP-ProBook_450_G5-333333?style=for-the-badge&logo=hp&logoColor=white"/> <img src="https://img.shields.io/badge/Windows_10_Pro-000000?style=for-the-badge&logo=Windows_10&logoColor=white"/> <img src="https://img.shields.io/badge/core_i5-000000?style=for-the-badge&logo=intel&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/HP-ProBook_450_G5-333333?style=for-the-badge&logo=hp&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Windows_10_Pro-000000?style=for-the-badge&logo=Windows_10&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/core_i5-000000?style=for-the-badge&logo=intel&logoColor=white"/>
+</p>
 
-  
+<!-- ## 🛒 Apps on Store -->
+
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" height="300px" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=vue" />
+	<img width="48%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=iampawan&theme=vue" />
+</p>
