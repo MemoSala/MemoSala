@@ -43,3 +43,9 @@ My name's Mo'men Salah and I'm a flutter developer from Egypt, Cairo. I do a lot
 [![](https://img.shields.io/badge/facebook-0866FF?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/momen.salah.503/)
 [![](https://img.shields.io/badge/instagram-FF0069?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/momensalah919[/)
 [![](https://img.shields.io/badge/whatsapp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://api.whatsapp.com/send/?phone=201114613845&text&type=phone_number&app_absent=0)
+
+## 👨🏻‍💻 Laptop in use
+<!-- ## 👨🏻‍💻 Laptop in use & Favorite Terminal -->
+<img src="https://img.shields.io/badge/HP-ProBook_450_G5-333333?style=for-the-badge&logo=hp&logoColor=white"/> <img src="https://img.shields.io/badge/Windows_10_Pro-000000?style=for-the-badge&logo=Windows_10&logoColor=white"/> <img src="https://img.shields.io/badge/core_i5-000000?style=for-the-badge&logo=intel&logoColor=white"/>
+
+  
