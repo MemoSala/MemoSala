@@ -86,3 +86,9 @@ My name's Mo'men Salah and I'm a flutter developer from Egypt, Cairo. I do a lot
 	<img width="47%" src="https://github-readme-stats.vercel.app/api?username=MemoSala&show_icons=true&theme=vue" />
 	<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=MemoSala&theme=vue" />
 </p>
+
+## Personal Information
+<img src="https://img.shields.io/badge/Date_of_birth:-18_April_2002-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Marital_status:-single-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Military-Postponed-333333?style=for-the-badge"/>
+
